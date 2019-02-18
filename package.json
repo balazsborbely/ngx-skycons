@@ -1,0 +1,26 @@
+{
+  "name": "ngx-skycons",
+  "description": "This is a Skycons Angular 7 library.",
+  "keywords": [
+    "skycons",
+    "weather",
+    "angular",
+    "ngx",
+    "darksky",
+    "icons",
+    "animated"
+  ],
+  "author": {
+    "name": "Flexo Carpius",
+    "email": "flexocarpius@gmail.com"
+  },
+  "license": "Apache-2.0",
+  "version": "1.1.2",
+  "peerDependencies": {
+    "@angular/common": "^7.1.0",
+    "@angular/core": "^7.1.0"
+  },
+  "repository": {
+    "url": "https://github.com/flexocarpius/ngx-skycons"
+  }
+}
