@@ -4,6 +4,8 @@ This is a Skycons library for Angular 7.
 
 Skycons is a weather icon pack made for DarkSky (Forecast). You can find the original pack [here](https://darkskyapp.github.io/skycons/).
 
+Project page and mini demo can be found here: [https://flexocarpius.github.io/ngx-skycons/](https://flexocarpius.github.io/ngx-skycons/).
+
 # Installation
 
 First install the package.
