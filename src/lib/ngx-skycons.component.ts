@@ -511,7 +511,8 @@ export class SkyconsComponent implements OnInit, AfterViewInit {
   }
 
   ngAfterViewInit(): void {
-    this.ctx = this.canvas.nativeElement;
+    if(this.canvas)
+      this.ctx = this.canvas.nativeElement;
     this.add(this.ctx);
     this.play();
   }
